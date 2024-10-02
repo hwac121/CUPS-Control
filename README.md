@@ -11,3 +11,5 @@ INSTALLATION
 PLEASE NOTE
 -
 Written for and on Parrot Security OS for my own personal use and decided to share.
+
+THIS IS THE ORIGINAL SOFTWARE - Use and modify as you wish, all I ask is for credit given as the original author.
